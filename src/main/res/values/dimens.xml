@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_margin_horizontal">10dp</dimen>
+    <dimen name="main_margin_vertical">10dp</dimen>
+    <dimen name="main_margin_fab">25dp</dimen>
+
+    <dimen name="packs_list_icon_size">48dp</dimen>
+    <dimen name="packs_list_icon_padding">4dp</dimen>
+
+    <dimen name="toggle_icon_size">60dp</dimen>
+    <dimen name="toggle_icon_padding_tlr">4dp</dimen>
+    <dimen name="toggle_icon_padding_b">8dp</dimen>
+    <dimen name="toggle_icon_margin">8dp</dimen>
+
+    <dimen name="link_bar_icon_size">48dp</dimen>
+    <dimen name="link_bar_icon_padding">4dp</dimen>
+</resources>

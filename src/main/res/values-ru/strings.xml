@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinkBar</string>
+    <string name="menu_main_show">Показать панель</string>
+    <string name="menu_main_hide">Убрать панель</string>
+    <string name="menu_main_config">Конфигурация</string>
+    <string name="app_link_label_empty">ПУСТО</string>
+</resources>

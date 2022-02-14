@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinkBar</string>
+    <string name="menu_main_show">Show Bar</string>
+    <string name="menu_main_hide">Hide Bar</string>
+    <string name="menu_main_config">Configure</string>
+    <string name="app_link_label_empty">EMPTY</string>
+    <string name="content_descriptor_link" translatable="false">link</string>
+    <string name="content_descriptor_fab" translatable="false">show</string>
+    <string name="content_descriptor_icon" translatable="false">icon</string>
+</resources>
